@@ -4,4 +4,4 @@ features:
 extract assets and bundle file.
 determine media formats.
 
-usage: Moonlite <input dir> <output dir>
+usage: 'Moonlite <input dir> <output dir>'
